@@ -1,9 +1,9 @@
-# Arduino Deep Sleep & Bare Bones Arduino (just 35µA or 0.03mA to run!)
+# Arduino Deep Sleep & Bare Bones Arduino
 How to put your Arduino to sleep to save power (and wake up again)
 
-# See the accompanying videos #115 & #116 at https://www.youtube.com/ralphbacon
-(Direct link to part 1 video: )
-(Direct link to part 2 video: )
+# See the accompanying videos #115 & #116 at https://www.youtube.com/ralphbacon  
+(Direct link to part 1 video: https://youtu.be/jqFl8ydUzZM)  
+(Direct link to part 2 video: https://youtu.be/8fiYvnBDsDE)
 
 There are two ways to put your Arduino ATMEGA328P (UNO or Nano, for example) to sleep - or more accurately, two ways to wake it up after it has been put to sleep in order to save (battery) power.
 
