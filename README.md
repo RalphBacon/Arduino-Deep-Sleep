@@ -5,7 +5,7 @@ How to put your Arduino to sleep to save power (and wake up again)
 (Direct link to part 1 video: https://youtu.be/jqFl8ydUzZM)  
 (Direct link to part 2 video: https://youtu.be/8fiYvnBDsDE)
 
-Note: the video to actually construct the **bare bones Arduino** (using an ATmega328P chip and a handful of components) can be found in this GitHub repository under **Bare Bones Arduino**, see YouTube video #117.
+Note: the video to actually construct the **bare bones Arduino** (using an ATmega328P chip and a handful of components) can be found in this GitHub repository under **Bare Bones Arduino** https://github.com/RalphBacon/Bare-Bones-Arduino, see YouTube video #117.
 
 There are two ways to put your Arduino ATMEGA328P (UNO or Nano, for example) to sleep - or more accurately, two ways to wake it up after it has been put to sleep in order to save (battery) power.
 
